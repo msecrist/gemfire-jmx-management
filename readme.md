@@ -58,3 +58,6 @@ Connecting to Locator at [host=localhost, port=10334] ..
 Connecting to Manager at [host=172.20.6.235, port=1099] ..
 Successfully connected to: [host=172.20.6.235, port=1099]
 ```
+
+# Quick Start
+You can start up the locator (with security) and start a server by simply running the ```startSystem.sh``` script.
