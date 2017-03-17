@@ -3,7 +3,7 @@ There is a pretty simple reference in the GemFire 8.2 reference guide that makes
 
 I believe based on references in the material that this is based on basic JMX security specified by Oracle.
 
-[Oracle Jmx Monitoring and Managerment page](http://docs.oracle.com/javase/7/docs/technotes/guides/management/agent.html)
+[Oracle Jmx Monitoring and Management page](http://docs.oracle.com/javase/7/docs/technotes/guides/management/agent.html)
 
 # Configuration
 The main thing needed is a password file. Here is an example taken from the GemFire 8 reference guide. Let's call this one ```jmx-manager-file.txt```
