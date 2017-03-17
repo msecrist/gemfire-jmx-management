@@ -1,0 +1,6 @@
+#the gemfiremonitor user has readonly access
+#the gemfiremanager user has readwrite access
+
+gemfiremonitor readonly
+gemfiremanager readwrite
+mark readonly

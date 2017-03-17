@@ -1,0 +1,7 @@
+#the gemfiremonitor user has password Abc!@#
+#the gemfiremanager user has password 123Gh2!
+
+gemfiremonitor Abc!@#
+gemfiremanager 123Gh2!
+mark abc123
+
